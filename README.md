@@ -13,3 +13,24 @@ This is my portfolio website built with Next.js bootstrap that displays my skill
 🔸 Projects\
 🔸 Achievements\
 🔸 Contact Me
+
+## 👾 Installation/Environment Setup:
+
+Prerequisites For Running The Project Locally:
+  <pre>• Node     • NPM     • Git </pre>
+  
+  From your command line, clone and run my-portolio:
+
+```bash
+# Clone this repository
+$ git clone https://github.com/Shatakshis667/my-portfolio.git
+
+# Go into the repository
+$ cd developer-portfolio
+
+# Install dependencies
+$ yarn
+
+#Start's development server
+$ yarn dev
+```
