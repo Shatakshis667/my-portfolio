@@ -4,6 +4,9 @@
 
 This is my portfolio website built with Next.js bootstrap that displays my skills, work experiences, projects, etc., as a software developer. It's a clean, beautiful and responsive portfolio template that can easily be customized by developers!
 
+## 👾 Link for project:
+Heroke: [https://shatakshisingh.herokuapp.com/](https://shatakshisingh.herokuapp.com/)
+
 ## 👾 Sections:
 
 🔸 Summary\
