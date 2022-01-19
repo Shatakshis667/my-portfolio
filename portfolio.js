@@ -5,7 +5,7 @@ export const greetings = {
 	title: "Hi all, I'm Shatakshi!",
 	description:
 		"I'm a passionate Full Stack Web Developer having experience in building Cross Platform Web applications with JavaScript / Reactjs / Nodejs / Java and some other cool libraries and frameworks. I'm also an enthusiastic learner, always looking for opportunities to expand my skillset, and willing to learn and work across technologies and domains.",
-	resumeLink: "",
+	resumeLink: "https://drive.google.com/file/d/1nJYg4NUqInSgFKdSiKnIHRamUNi5lohN/view?usp=sharing",
 };
 
 export const openSource = {
