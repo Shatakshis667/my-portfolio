@@ -11,5 +11,5 @@ This is my portfolio website built with Next.js bootstrap that displays my skill
 🔸 Education\
 🔸 Work Experience\
 🔸 Projects\
-🔸 Achievements
+🔸 Achievements\
 🔸 Contact Me
